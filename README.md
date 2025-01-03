@@ -6,7 +6,8 @@ Currently, I'm a Computer Science Undergrad
 
 In the past, I have used these technologies and tools to develop solutions.
 
-(https://skillicons.dev/icons?i=androidstudio,cs,css,figma,firebase,flutter,git,github,html,java,js,kotlin,nodejs,php,postman,py,react,,mssql,visualstudio,vscode,vue,webpack&perline=15)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,azure,bash,bootstrap,cs,css,dart,docker,dotnet,figma,firebase,flutter,git,github,html,java,js,jest,jquery,kotlin,kubernetes,laravel,materialui,mysql,nginx,nodejs,php,postman,py,react,reactivex,redux,regex,sass,sqlite,swift,ts,astro,netlify,vercel,visualstudio,vscode,vue,webpack&perline=15)
+
 
 📫 Reach me through <a href="https://www.linkedin.com/in/gavesh-dissanayake/">LinkedIn</a>
 
