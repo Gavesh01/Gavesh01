@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Lasitha Gvaesh Dissanayake. 
+I'm Gvaesh Dissanayake. 
 
 Currently, I'm a Computer Science Undergrad
 
