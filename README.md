@@ -6,8 +6,7 @@ Currently, I'm a Computer Science Undergrad
 
 In the past, I have used these technologies and tools to develop solutions.
 
-![My Skills]https://skillicons.dev/icons?i=androidstudio,cs,css,figma,firebase,flutter,git,github,html,java,js,kotlin,mysql,nodejs,php,postman,py,react,mssql,visualstudio,vscode,vue,webpack&perline=15
-
+(https://skillicons.dev/icons?i=androidstudio,cs,css,figma,firebase,flutter,git,github,html,java,js,kotlin,mysql,nodejs,php,postman,py,react,,mssql,visualstudio,vscode,vue,webpack&perline=15)
 
 📫 Reach me through <a href="https://www.linkedin.com/in/gavesh-dissanayake/">LinkedIn</a>
 
